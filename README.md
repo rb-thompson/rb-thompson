@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## My Best Skills
 
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+<img src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,elasticsearch,py,pytorch,js,npm,vscode&theme=light" />
 
 <br />
