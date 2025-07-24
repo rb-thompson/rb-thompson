@@ -17,6 +17,8 @@
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 <img src="https://skillicons.dev/icons?i=ai,github,githubactions,laravel,postman,py,pytorch,js,npm,tensorflow,vscode&theme=light" />
 
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+
 <br />
 
 ## Portfolio
