@@ -17,8 +17,6 @@
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 <img src="https://skillicons.dev/icons?i=ai,github,githubactions,laravel,postman,py,pytorch,js,npm,tensorflow,vscode&theme=light" />
 
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-
 <br />
 
 ## Portfolio
@@ -27,5 +25,5 @@
 
 - [https://github.com/rb-thompson/coders-guide-portfolio](https://github.com/rb-thompson/coders-guide-portfolio)
 - [https://coders-guide-portfolio.vercel.app/](https://coders-guide-portfolio.vercel.app/)
-- [https://link-forge.rbthompson.io](https://link-forge.rb-thompson.io) 🎮
+- [https://link-forge.rbthompson.io](https://link-forge.rbthompson.io) 🎮
 - [https://github.com/rb-thompson/smart-finance-analyzer](https://github.com/rb-thompson/smart-finance-analyzer)
