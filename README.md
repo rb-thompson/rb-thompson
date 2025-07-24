@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Best Skills
+
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+
+<br />
