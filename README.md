@@ -4,6 +4,14 @@
 - 🧪 I’m currently working on data science.
 - 🌱 I’m currently enrolled in a ML/AI bootcamp (Jan-Sept 2025).
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
+
 ## My Best Skills
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
