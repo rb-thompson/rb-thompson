@@ -1,23 +1,24 @@
-## Hi there 👋
+## Hi anon 👋
 
-<!--
-**rb-thompson/rb-thompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 My website's [link](https://rbthompson.io/).
+- 🔭 I’m currently working on data science.
+- 🌱 I’m currently enrolled in a ML/AI bootcamp (Jan-Sept 2025).
+- 📫 How to reach me: prizecoffeecup@gmail.com
+- ⚡ Fun fact: Software is eating the world.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## My Best Skills
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<img src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,terraform,docker,elasticsearch,py,pytorch,js,npm,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=ai,github,githubactions,laravel,postman,py,pytorch,js,npm,tensorflow,vscode&theme=light" />
 
 <br />
+
+## Portfolio
+
+### My Projects
+
+- [https://github.com/rb-thompson/coders-guide-portfolio](https://github.com/rb-thompson/coders-guide-portfolio)
+- [https://coders-guide-portfolio.vercel.app/](https://coders-guide-portfolio.vercel.app/)
+- [https://link-forge.rbthompson.io](https://link-forge.rb-thompson.io)
+- [https://github.com/rb-thompson/smart-finance-analyzer](https://github.com/rb-thompson/smart-finance-analyzer)
