@@ -1,6 +1,6 @@
 ### Hi — I'm Brandon Thompson
 
-Indie developer in **Southwest Virginia**. I cook at Pizza Hut after about 4pm ET and build software before that.
+Indie developer in **Southwest Virginia**. I build information systems and ship them. Open to remote part-time or contract work.
 
 **Looking for:** remote part-time or contract · junior/associate full-stack · weekday daytime Eastern · no on-call.
 
